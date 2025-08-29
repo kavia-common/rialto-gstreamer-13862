@@ -1321,3 +1321,218 @@ TimeoutError
 2025-08-29 08:45:58,885 - Knowledge - INFO - Updating org costs, total cost: 0
 2025-08-29 08:45:58,889 - Knowledge - INFO - Saving knowledge to Redis...
 2025-08-29 08:45:58,925 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-08-29 08:58:43,938 - Knowledge - INFO - Redis support added with prefix knowledge:b6733wn:
+2025-08-29 08:58:44,283 - Knowledge - INFO - load persisted knowledge: begin
+2025-08-29 08:58:44,292 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,293 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,293 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/RialtoGStreamerWebAudioSink.h
+2025-08-29 08:58:44,318 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,318 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,319 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/RialtoGStreamerMSEBaseSinkCallbacks.h
+2025-08-29 08:58:44,339 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,340 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,340 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/ut/GStreamerEmeUtilsTests.cpp
+2025-08-29 08:58:44,360 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,361 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,361 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/MessageQueue.h
+2025-08-29 08:58:44,373 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,374 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,374 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/ControlBackendInterface.h
+2025-08-29 08:58:44,385 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,385 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,386 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/RialtoGStreamerMSEBaseSink.h
+2025-08-29 08:58:44,407 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,408 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,412 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/third-party/source/MediaPipelineFactory.cpp
+2025-08-29 08:58:44,437 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,437 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,437 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/ut/CMakeLists.txt
+2025-08-29 08:58:44,454 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,454 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,455 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/BufferParser.cpp
+2025-08-29 08:58:44,473 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,473 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,473 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/GStreamerEMEUtils.h
+2025-08-29 08:58:44,497 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,497 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,497 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/mocks/MediaPipelineMock.h
+2025-08-29 08:58:44,511 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,512 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,512 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/mocks/CMakeLists.txt
+2025-08-29 08:58:44,527 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,527 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,527 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/GStreamerWebAudioPlayerClient.h
+2025-08-29 08:58:44,542 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,542 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,542 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/GStreamerMSEMediaPlayerClient.cpp
+2025-08-29 08:58:44,559 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,560 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,560 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/GStreamerUtils.cpp
+2025-08-29 08:58:44,573 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,573 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,573 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/RialtoGStreamerMSEVideoSink.h
+2025-08-29 08:58:44,600 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,600 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,600 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/cmake/googletest.cmake
+2025-08-29 08:58:44,621 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,623 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,623 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/RialtoGStreamerMSEAudioSink.cpp
+2025-08-29 08:58:44,737 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,741 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,742 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/ut/MediaPlayerClientBackendTests.cpp
+2025-08-29 08:58:44,768 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,768 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,769 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/Timer.cpp
+2025-08-29 08:58:44,799 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,803 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,803 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/third-party/source/MediaPipelineCapabilitiesFactory.cpp
+2025-08-29 08:58:44,821 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,822 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,823 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/MediaPlayerClientBackend.h
+2025-08-29 08:58:44,846 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,847 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,848 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/TERMS.md
+2025-08-29 08:58:44,864 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,864 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,865 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/scripts/valgrind/process_valgrind_results.py
+2025-08-29 08:58:44,880 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,880 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,881 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/mocks/WebAudioPlayerClientMock.h
+2025-08-29 08:58:44,903 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,903 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,903 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/GStreamerMSEUtils.h
+2025-08-29 08:58:44,923 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,923 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,923 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/CMakeLists.txt
+2025-08-29 08:58:44,937 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,937 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,937 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/WebAudioClientBackendInterface.h
+2025-08-29 08:58:44,954 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,954 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,954 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/mocks/MediaPipelineCapabilitiesMock.h
+2025-08-29 08:58:44,985 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:44,985 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:44,986 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/CMakeLists.txt
+2025-08-29 08:58:45,035 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,035 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,035 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/MediaPlayerManager.h
+2025-08-29 08:58:45,098 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,098 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,098 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/cmake/FindocdmRialto.cmake
+2025-08-29 08:58:45,127 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,127 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,128 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/GStreamerUtils.h
+2025-08-29 08:58:45,173 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,174 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,174 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/GStreamerMSEMediaPlayerClient.h
+2025-08-29 08:58:45,206 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,207 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,207 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/GStreamerMSEUtils.cpp
+2025-08-29 08:58:45,241 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,242 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,242 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/MediaPlayerManager.cpp
+2025-08-29 08:58:45,269 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,270 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,270 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/ut/GStreamerUtilsTests.cpp
+2025-08-29 08:58:45,293 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,293 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,294 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/ut/WebAudioClientBackendTests.cpp
+2025-08-29 08:58:45,322 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,322 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,322 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/ut/BufferParserTests.cpp
+2025-08-29 08:58:45,336 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,336 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,336 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/README.md
+2025-08-29 08:58:45,349 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,349 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,350 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/WebAudioClientBackend.h
+2025-08-29 08:58:45,373 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,373 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,373 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/BufferParser.h
+2025-08-29 08:58:45,391 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,392 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,392 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/scripts/clang-format/process_clang-format_errors.py
+2025-08-29 08:58:45,406 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,406 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,406 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/cppcheck_suppressions.xml
+2025-08-29 08:58:45,431 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,431 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,431 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/mocks/MediaPipelineClientMock.h
+2025-08-29 08:58:45,455 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,455 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,456 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/RialtoGSteamerPlugin.cpp
+2025-08-29 08:58:45,480 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,480 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,480 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/third-party/source/ControlFactory.cpp
+2025-08-29 08:58:45,492 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,492 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,493 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/GStreamerEMEUtils.cpp
+2025-08-29 08:58:45,509 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,509 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,509 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/docs/index.html
+2025-08-29 08:58:45,529 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,529 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,529 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/RialtoGStreamerMSEBaseSink.cpp
+2025-08-29 08:58:45,556 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,557 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,557 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/RialtoGStreamerMSEBaseSinkPrivate.h
+2025-08-29 08:58:45,577 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,577 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,577 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/cmake/FindRialto.cmake
+2025-08-29 08:58:45,612 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,614 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,618 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/mocks/WebAudioPlayerMock.h
+2025-08-29 08:58:45,636 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,636 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,636 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/RialtoGStreamerWebAudioSink.cpp
+2025-08-29 08:58:45,651 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,651 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,652 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/MediaPlayerClientBackendInterface.h
+2025-08-29 08:58:45,682 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,683 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,683 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/CHANGELOG.md
+2025-08-29 08:58:45,720 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,720 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,721 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/ut/ControlBackendTests.cpp
+2025-08-29 08:58:45,759 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,759 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,759 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/CONTRIBUTING.md
+2025-08-29 08:58:45,780 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,780 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,780 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/RialtoGStreamerMSEAudioSink.h
+2025-08-29 08:58:45,798 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,799 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,800 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/Timer.h
+2025-08-29 08:58:45,828 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,828 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,828 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/third-party/CMakeLists.txt
+2025-08-29 08:58:45,869 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,869 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,871 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/GStreamerWebAudioPlayerClient.cpp
+2025-08-29 08:58:45,935 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,935 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,936 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/RialtoGStreamerMSEVideoSink.cpp
+2025-08-29 08:58:45,951 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,952 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,952 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/RialtoGStreamerMSEVideoSinkPrivate.h
+2025-08-29 08:58:45,968 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:45,968 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:45,971 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/source/ControlBackend.h
+2025-08-29 08:58:46,013 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:46,014 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:46,014 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/mocks/ControlMock.h
+2025-08-29 08:58:46,032 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:46,032 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:46,032 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/tests/third-party/source/WebAudioPlayerFactory.cpp
+2025-08-29 08:58:46,050 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/rialto-gstreamer-13862.git:kavia-6.0.0-rc1
+2025-08-29 08:58:46,051 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f81ff3de6d0>
+2025-08-29 08:58:46,052 - Knowledge - INFO - process ingested knowledge for /app/data/b2c/13862/b6733wn/rialto-gstreamer-13862/build_ut.py
+2025-08-29 08:58:46,072 - Knowledge - INFO - load persisted knowledge: end
+2025-08-29 08:58:46,072 - Knowledge - INFO - load persisted docinfo: begin
+2025-08-29 08:58:46,080 - Knowledge - INFO - load persisted docinfo: end
+2025-08-29 08:58:46,250 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-08-29 08:58:46,260 - Knowledge - INFO - knowledge worker kw1 start
+2025-08-29 08:58:46,272 - Knowledge - INFO - Knowledge creation complete
+2025-08-29 08:58:46,275 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-08-29 08:58:46,282 - Knowledge - INFO - Saving knowledge to Redis...
+2025-08-29 08:58:46,397 - Knowledge - INFO - Knowledge saved to Redis successfully
